@@ -1,5 +1,5 @@
 {
-  "name": "dark-voice-bots",
+  "name": "lozbey",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -7,7 +7,7 @@
     "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "polemikal",
+  "author": "lozbey",
   "license": "ISC",
   "dependencies": {
     "@discordjs/opus": "^0.3.3",
